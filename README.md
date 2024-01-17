@@ -1,2 +1,2 @@
 # Rakxu
-This is my first Git repository.
+This is Raksha's first Git repository.
